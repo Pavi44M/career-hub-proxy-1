@@ -1,7 +1,0 @@
-{
-  "name": "career-hub-proxy",
-  "version": "1.0.0",
-  "type": "module",
-  "description": "API proxy for Career Hub AI features",
-  "main": "api/anthropic.js"
-}
